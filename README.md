@@ -1,8 +1,8 @@
 # Hi there, I'm Emmanuel Alvarez 👋
 
-### Systems Engineering Student • Backend Developer • AI Engineer
+### Systems Engineering Student • Backend Developer • Aspiring Data Engineer / Data Scientist
 
-Systems Engineering student at EAFIT University. I build scalable backend systems and use AI to turn data into real-world impact. Interested in API design, machine learning, and optimization.
+Systems Engineering student at EAFIT University. I build scalable backend systems and I'm developing my skills in data engineering and data science. Interested in API design, data-driven systems, software architecture, and turning data into meaningful insights.
 
 Currently based in **Medellín, Colombia** 🇨🇴.
 
@@ -11,8 +11,8 @@ Currently based in **Medellín, Colombia** 🇨🇴.
 ## 🚀 About Me
 
 - 🎓 Systems Engineering Student at **EAFIT University (2024–2028)**
-- 💻 Focused on **Backend Development** and **Artificial Intelligence**
-- 🧠 Interested in scalable systems, software architecture, and data engineering
+- 💻 **Backend Developer**
+- 🧠 Interested in software architecture, **data engineering** and **Data Science**
 - 🌱 Continuously learning cloud technologies, AI, and backend best practices
 - 🤝 Open to internships, collaborations, and software engineering opportunities
 
